@@ -34,3 +34,8 @@ git add .
 ```bash
 git commit -m "first commit"
 ```
+```bash
+git remote add origin https://github.com/Manojkumal/wine-quality-project-using-mlops.git
+git branch -M main
+git push origin main
+```
