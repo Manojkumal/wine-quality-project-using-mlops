@@ -4,3 +4,7 @@ sklearn
 pandas
 tox
 pytest
+flake8
+flask
+guicorn
+
