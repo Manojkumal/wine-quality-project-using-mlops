@@ -56,6 +56,6 @@ setup commands -
 pip install -e . 
 ```
 build your own package commands-
-````bash
+```bash
 python setup.py sdist bdist_wheel
 ```
