@@ -6,5 +6,5 @@ tox
 pytest
 flake8
 flask
-guicorn
+gunicorn
 
